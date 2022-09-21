@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - screenshot_security (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - screenshot_security (from `.symlinks/plugins/screenshot_security/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  screenshot_security:
+    :path: ".symlinks/plugins/screenshot_security/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  screenshot_security: ef7a15cdc1e4037c888b9972cd5a8f19d46a270c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
